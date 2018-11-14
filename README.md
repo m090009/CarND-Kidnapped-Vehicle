@@ -7,4 +7,4 @@ In this project we try to find the location of a kidnapped vehicle using a parti
 
 ## Video
 
-[![gif image](./imgs/particlefilter.gif)](https://www.youtube.com/watch?v=GP_Z02tCWOQ)
+[![gif image](./imgs/particle_filter.gif)](https://www.youtube.com/watch?v=GP_Z02tCWOQ)
